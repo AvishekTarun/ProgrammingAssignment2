@@ -2,8 +2,7 @@
 ##These two functions calculates inverse of a matrix and cache it
 
 
-## The function "makeCacheMatrix" below creates an object that 
-## caches the inverse of the argument matrix
+## The function "makeCacheMatrix" below creates an object that caches the inverse of the argument matrix
 
 makeCacheMatrix <- function(mtrx = matrix()) {
 invert <- NULL
