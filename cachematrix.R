@@ -1,4 +1,4 @@
-## For R Prgromming Course - assignment 2 
+## For R Prgromming Course - Programming Assignment 2: Lexical Scoping
 ##These two functions calculates inverse of a matrix and cache it
 
 
